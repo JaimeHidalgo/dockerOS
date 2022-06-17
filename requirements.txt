@@ -1,0 +1,11 @@
+streamlit
+requests
+web3
+pandas
+pymongo
+dnspython
+motor
+pydantic
+selenium
+webdriver-manager
+pycoingecko
